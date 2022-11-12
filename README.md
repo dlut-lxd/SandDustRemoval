@@ -28,8 +28,8 @@ dataset
      |   +-- real
      |   +-- fake
      +-- test
-     |   +-- real
-     |   +-- fake
+         +-- real
+         +-- fake
 
 ```
 
