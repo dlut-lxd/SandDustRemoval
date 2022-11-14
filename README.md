@@ -10,7 +10,7 @@ we constructed a large, high-quality, and diverse dataset, named as Open-pit Min
     </a>
 </div>
 
-## the generation of OMSD
+## Generation of OMSD
 
 we divide the generation of OMSD into two parts: first blurring (fog) and then color deviation. The OMSD is generated on 1006 high-quality dust-free images, and each dust-free image is rendered into 10 different levels of sand-dust images making a total of 10060 images generated. 6750 images are used as training set, and the rest 3310 images astest set .
 
@@ -20,7 +20,7 @@ we divide the generation of OMSD into two parts: first blurring (fog) and then c
     </a>
 </div>
 
-## dataset file
+## Dataset file
 
 ```
 dataset
@@ -33,7 +33,7 @@ dataset
 
 ```
 
-## download dataset
+## Download dataset
 
 baiduyun：https://pan.baidu.com/s/1uCodevbNpPqlkkSVZ1BeJA 
 
